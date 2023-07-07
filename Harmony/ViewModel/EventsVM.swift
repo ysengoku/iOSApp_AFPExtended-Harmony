@@ -33,7 +33,7 @@ class EventsViewModel: ObservableObject {
         Event(
             title: "Quiz Culture générale du Japon",
             isOnline: true,
-            date: Date(timeIntervalSince1970: 1688722200),
+            date: Date().addingTimeInterval(3600),
             address: nil,
             listParticipant: [userAlexandre, userMarie, userTom, userThomas, userSonia, userMax, userAdeline, userKelian],
             detail: "Mettez vos connaissances sur le Japon à l'épreuve. Testez vos compétences dans différents domaines. Ne manquez pas cette opportunité de vous immerger dans la culture japonaise et de vous amuser avec des passionnés de ce magnifique pays.",
