@@ -1,5 +1,10 @@
 ## Harmony - iOS App
 Harmony is a prototype of iOS application developped during Apple Fouundation Program Extended in 4 weeks.  
+
+### Technique
+✅ Swift  
+✅ SwiftUI  
+✅ MVVM design pattern  
   
 ### Demonstration video
 #### Project presentation  
